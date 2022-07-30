@@ -1,5 +1,5 @@
 # tesify.vim colorscheme
 
-inspired from Arcaea
+inspired by Arcaea
 
 ![testify.png](testify.png)
